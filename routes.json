@@ -1,0 +1,7 @@
+{
+    "/api/admin/facilities": "/facilities",
+    "/api/admin/facilities/:id": "/facilities/:id",
+    "/api/admin/reservations": "/reservations",
+    "/api/admin/reservations/:id": "/reservations/:id",
+    "/api/user": "/users"
+}
